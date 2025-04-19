@@ -1,0 +1,2 @@
+Örnek prompt:
+50 60 kelimelik SEO uygun, içeriğe SEO için etki edecek yorum yapsın. Çok teşekkür ederim, cok faydalı gibi cümleler kurmasın. Lütfen içerikle alakalı mantıklı, senaryolu bir yorum olsun. Yorumun başında sonunda hiçbir şey yazma. Sadece yazılacak yorumu ver.
