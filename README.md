@@ -16,7 +16,7 @@ Eklentiyi WordPress sitenize kurmak için aşağıdaki adımları izleyin:
 
 Eklentiyi İndirin:
 
-Bu depoyu klonlayın: git clone https://github.com/kullanici-adiniz/yapay-zeka-destekli-wp-otomatik-yorum.git
+Bu depoyu klonlayın: git clone https://github.com/hetrx/WordPress-Otomatik-Yorum.git
 Veya Releases sayfasından ZIP dosyasını indirin.
 
 
