@@ -1,8 +1,8 @@
 # WordPress-Otomatik-Yorum
 WordPress sitenizi yapay zeka destekli veya manuel yorumlarla canlandırın!
 Yapay Zeka Destekli WordPress Otomatik Yorum, WordPress sitelerindeki yazılara manuel yorum eklemenizi veya Google’ın Gemini API’sini kullanarak doğal ve gerçekçi otomatik yorumlar oluşturmanızı sağlayan ücretsiz bir eklentidir. Rastgele ad, soyad, IP adresi, e-posta ve web sitesi bilgileriyle yorumlarınızı organik hale getirir, böylece siteniz daha aktif ve çekici görünür. SEO’yu güçlendirmek, yorum sistemini test etmek veya etkileşimi artırmak için mükemmel bir çözüm! 🚀
-Özellikler
 
+Özellikler
 Manuel Yorum Ekleme: Kendi yorumlarınızı seçtiğiniz yazılara kolayca ekleyin.
 Yapay Zeka Destekli Otomatik Yorumlar: Gemini API ile yazıya uygun, benzersiz yorumlar üretin (bir seferde en fazla 3 yorum).
 Rastgele Veri Kullanımı: Ad, soyad, IP, e-posta ve web sitesi bilgileri otomatik olarak atanır, yorumlar gerçekçi görünür.
