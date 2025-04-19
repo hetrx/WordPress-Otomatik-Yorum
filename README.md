@@ -1,6 +1,7 @@
 # Yapay Zeka Destekli WordPress Otomatik Yorum
 
 Alternatif İndirme Link: [TIKLA İNDİR](https://s6.dosya.tc/server22/y8ldxc/meyil-rastgele-yorum.zip.html).
+Virüstotal: [TIKLA](https://www.virustotal.com/gui/file/d1cf999492c7ff0a0509690d0e679ddac19bf8d8794b1450c17f4182aebedace)
 
 *WordPress sitenizi yapay zeka destekli veya manuel yorumlarla canlandırın!*
 
